@@ -31,6 +31,6 @@ function validate(callback) {
 }
 
 function display() {
-    window.open("../mainpage.html");
+    window.open("mainpage.html");
     return true;
 }
